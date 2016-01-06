@@ -18,8 +18,10 @@ ant.properties
 # generated files
 bin/
 gen/
+.idea/
+.gradle/
 resource.car
-
+build/
 #mac local files
 .DS_Store
 
